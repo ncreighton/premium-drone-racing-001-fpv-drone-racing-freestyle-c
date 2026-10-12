@@ -1,0 +1,2 @@
+# premium-drone-racing-001-fpv-drone-racing-freestyle-c
+Tired of juggling spreadsheets, sticky notes, and half-remembered battery counts? Your drone builds, race schedules, and freestyle practice logs finally have a single source of truth.  This Notion template transforms your chaotic gear pile into a streamlined operations center. Track every frame, motor, and prop config, log every flight with battery
